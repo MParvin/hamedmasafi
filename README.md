@@ -1,5 +1,5 @@
-[![Hamed Masafi's github stats](https://github-readme-stats.vercel.app/api?username=hamedmasafi)](https://github.com/anuraghazra/github-readme-stats)
-[![Hamed Masafi's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=hamedmasafi)](https://github.com/anuraghazra/github-readme-stats)
+[![MParvin's github stats](https://github-readme-stats.vercel.app/api?username=mparvin)](https://github.com/anuraghazra/github-readme-stats)
+[![MParvin's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=mparvin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies & Languages I use
 
